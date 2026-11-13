@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Pinly",
+    "slug": "pinly-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.pinly.inspiration",
+      "versionCode": 1
+    }
+  }
+}
